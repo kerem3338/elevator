@@ -9,7 +9,7 @@ termcolor<br>
 
 oyunu çalıştırmak için<br>
 `python main.py`<br>
-**Elavator Engine***<br>
+**Elavator Engine**<br>
 elevator engine elevator oyununu dahi iyi bir şekilde geliştirmek için tasarlanmış konsol tabanlı bir motordur<br>
 - dökümantasyonu bulunmamaktadır<br>
 - Kişsel işler için kullanılabilir<br>
